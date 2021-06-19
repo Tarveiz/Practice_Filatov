@@ -1,0 +1,13 @@
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.exe
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.deps.json
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.runtimeconfig.json
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.runtimeconfig.dev.json
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.dll
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\bin\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.pdb
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.csprojAssemblyReference.cache
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.AssemblyInfoInputs.cache
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.AssemblyInfo.cs
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.csproj.CoreCompileInputs.cache
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.dll
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.pdb
+D:\PO\Filatov\Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\Kryuchkov_BSBO-03-18_Filatov_Pr_1\obj\Debug\netcoreapp3.1\Kryuchkov_BSBO-03-18_Filatov_Pr_1.genruntimeconfig.cache

@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Kryuchkov_BSBO_03_18_Filatov_Pr_1</RootNamespace>
-  </PropertyGroup>
-
-</Project>

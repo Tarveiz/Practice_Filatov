@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kryuchkov_BSBO_03_18_Filatov_Pr_2/1.0.0": {
+        "runtime": {
+          "Kryuchkov_BSBO_03_18_Filatov_Pr_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kryuchkov_BSBO_03_18_Filatov_Pr_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

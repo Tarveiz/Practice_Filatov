@@ -4,7 +4,12 @@ namespace Kryuchkov_BSBO_03_18_Filatov_Pr_1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
+        {
+            Deri();
+        }
+
+        static void Deri()
         {
             Console.WriteLine("Введите количество строк: ");
             int rows = int.Parse(Console.ReadLine());
